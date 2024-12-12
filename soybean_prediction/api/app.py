@@ -23,7 +23,7 @@ url = 'https://bean-prediction-image-3-479795464782.southamerica-east1.run.app'
 # App title and description
 st.markdown('### 🌽🫘Soybean and corn quality analysis🫘🌽')
 st.markdown('''
-            > In our project, we developed deep learning models to help farmers detect low-quality soybeans and corn grains
+            > In our project, we developed deep learning models to help companies detect low-quality soybeans and corn grains
 
             > * The models were created using convolutional neural networks
             > * For soybeans, the model has an accuracy of 90.48%
